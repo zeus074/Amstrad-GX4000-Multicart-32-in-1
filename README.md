@@ -1,11 +1,11 @@
 # AMSTRAD GX4000 / CPC464+ MULTICART
-16 IN 1
+32 IN 1 SMD
 
 This cartridge allows programs to run on the Amstrad GX4000 or CPC464+ computer
 
-It uses two 27C801 ROMs to store up to 8 programs of 128kb each.
+It uses two MX29F1610 ROMs to store up to 16 programs of 128kb each.
 
-With the switch on top of the cartridge it is possible to select which rom to use, while with the dipswitch the bank is selected from 0 to 7, for a total of 16 games.
+With the switch on top of the cartridge it is possible to select which rom to use, while with the dipswitch the bank is selected from 0 to 15, for a total of 32 games.
 
 Amstrad uses a protection system for these cartridges, you can use the original chip **acid** (taken from another cartridge) or a 74HC112N flip-flop.
 
@@ -14,7 +14,7 @@ PCB:
 ![alt text](https://github.com/zeus074/Amstrad-GX4000-Multicart-32-in-1/blob/main/IMG/pcb_top.jpg)
 ![alt text](https://github.com/zeus074/Amstrad-GX4000-Multicart-32-in-1/blob/main/IMG/pcb_bottom.jpg)
 
-:coffee: if you want the PCB, please support me and follow this link : <a href="https://www.pcbway.com/project/shareproject/Dram_tester_for_4116_4164_256_and_4532_d6b7143c.html" target="_NEW">PCBWAY!</a>
+:coffee: if you want the PCB, please support me and follow this link : <a href="https://www.pcbway.com/project/shareproject/Amstrad_GX4000_multicart_or_CPC464_32in_1_SMD_3feb920f.html" target="_NEW">PCBWAY!</a>
 
 
 You can find the video of this project on the Retrofixer channel: link
@@ -67,7 +67,7 @@ Ofcourse! This case is in the 3D_Print folder.
 
 Subscribe to my channel Retrofixer https://www.youtube.com/@retrofixer to keep us going in this work.
 
-You can print ready-made pcb on PCBWAY! https://www.pcbway.com/project/shareproject/Amstrad_GX4000_multicart_or_CPC464_PULS_3cb5d5b8.html
+You can print ready-made pcb on PCBWAY! https://www.pcbway.com/project/shareproject/Amstrad_GX4000_multicart_or_CPC464_32in_1_SMD_3feb920f.html
 
 
 Enjoy!
