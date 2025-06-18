@@ -61,7 +61,7 @@ You can find schemnatic and BOM in the relative folders.
 
 **Final cartridge:**
 
-![alt text](https://github.com/zeus074/Amstrad_Multicart/blob/main/IMG/cart-gx4000.jpg)
+![alt text](https://github.com/zeus074/Amstrad-GX4000-Multicart-32-in-1/blob/main/IMG/IMG_3454.jpg)
 
 Ofcourse! This case is in the 3D_Print folder.
 
